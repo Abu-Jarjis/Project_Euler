@@ -18,7 +18,7 @@ int prime_factor_max(long long int main){
     {
         cout<<i << "-------" <<main << "\n";
         while(main % i==0)
-        {//for yes
+        {
             main /= i;
 
         }   
