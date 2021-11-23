@@ -2,7 +2,6 @@
 using namespace std;
 
 int is_palindrome(int num);
-int plaindrome_gen(int num);
 
 int main(){
     int max = 0;
